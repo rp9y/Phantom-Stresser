@@ -17,7 +17,7 @@ This tool is provided strictly for:
 
 **Important Legal Notice**
 
-Do NOT use this software against any system, network, or service without explicit written permission from the owner/operator. Unauthorized use may violate local, national, and international laws (including but not limited to computer fraud/abuse statutes). The author(s) are not responsible for any misuse.
+Do NOT use this software against any system, network, or service without explicit written permission from the owner/operator. Unauthorized use may violate local, national, and international laws (including but not limited to computer fraud/abuse statutes). The author is not responsible for any misuse.
 
 ## Features
 
@@ -27,6 +27,7 @@ Do NOT use this software against any system, network, or service without explici
 - Target IP and port selection
 - Basic packet statistics display
 - Multi-threaded sending for higher throughput
+- Pre-set amount of bots
 
 ## Requirements
 
