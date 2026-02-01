@@ -1,4 +1,8 @@
 # Phantom-Stresser
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+IF THERE ARE ANY ISSUES, ERRORS OR PROBLEMS, CONTACT ME ON DISCORD, USERNAME IS @rp9y OR @y452
+--------------------------------------------------------------------------------------------------------------------------------------------
 **Network Traffic Simulator & Performance Testing Tool**
 
 A lightweight, multi-threaded application for generating high-volume UDP traffic to a specified target for network performance testing, load simulation, and stress evaluation purposes.
